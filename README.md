@@ -115,7 +115,3 @@ express-typescript/
 ## **Author**
 Developed by **Pavan Kandivalasa**.
 
----
-
-## **License**
-This project is licensed under the **ISC License**.
